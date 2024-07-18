@@ -1,1 +1,1 @@
-This repository shows tasks and projrcts I did in the CODSOFT internship
+This repository shows tasks and projects I did in the CODSOFT internship
